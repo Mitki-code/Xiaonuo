@@ -3,3 +3,6 @@ qqbot.log
 xiaonuo_language.py
 __pycache__/xiaonuo_config.cpython-310.pyc
 xiaonuo_game_language.py
+__pycache__/xiaonuo_game_data.cpython-310.pyc
+__pycache__/xiaonuo_game_language.cpython-310.pyc
+__pycache__/xn_game_user_data.cpython-310.pyc
